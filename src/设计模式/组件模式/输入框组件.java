@@ -15,12 +15,12 @@ public class 输入框组件 extends 抽象组件 {
         System.out.println("名为“" + name + "”的【输入框组件】绘制完成");
     }
 
-    @Override
+//    @Override
     public void 添加(抽象组件 组件) {
         System.out.println("基础组件不支持添加！");
     }
 
-    @Override
+//    @Override
     public void 删除(抽象组件 组件) {
         System.out.println("基础组件不支持删除！");
     }

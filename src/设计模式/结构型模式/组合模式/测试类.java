@@ -1,4 +1,4 @@
-package 设计模式.组件模式;
+package 设计模式.结构型模式.组合模式;
 
 public class 测试类 {
     public static void main(String[] args) {
